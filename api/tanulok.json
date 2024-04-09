@@ -1,0 +1,130 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Kiss István",
+            "city": "Szeged",
+            "birth": "1999-02-20",
+            "groupId": 1
+        },
+        {
+            "id": 2,
+            "name": "Nagy Ágnes",
+            "city": "Debrecen",
+            "birth": "2000-05-15",
+            "groupId": 1
+        },
+        {
+            "id": 3,
+            "name": "Kovács Péter",
+            "city": "Budapest",
+            "birth": "1998-11-30",
+            "groupId": 1
+        },
+        {
+            "id": 4,
+            "name": "Tóth Éva",
+            "city": "Miskolc",
+            "birth": "2001-08-10",
+            "groupId": 1
+        },
+        {
+            "id": 5,
+            "name": "Szabó László",
+            "city": "Pécs",
+            "birth": "1999-04-25",
+            "groupId": 1
+        },
+        {
+            "id": 6,
+            "name": "Horváth Judit",
+            "city": "Szeged",
+            "birth": "2000-01-05",
+            "groupId": 1
+        },
+        {
+            "id": 7,
+            "name": "Molnár Gábor",
+            "city": "Budapest",
+            "birth": "2002-03-18",
+            "groupId": 1
+        },
+        {
+            "id": 8,
+            "name": "Varga Eszter",
+            "city": "Debrecen",
+            "birth": "1997-09-20",
+            "groupId": 1
+        },
+        {
+            "id": 9,
+            "name": "Fekete Zsolt",
+            "city": "Szeged",
+            "birth": "1998-06-12",
+            "groupId": 1
+        },
+        {
+            "id": 10,
+            "name": "Balogh Anna",
+            "city": "Pécs",
+            "birth": "2001-07-28",
+            "groupId": 1
+        },
+        {
+            "id": 11,
+            "name": "Mészáros Tamás",
+            "city": "Miskolc",
+            "birth": "1999-10-02",
+            "groupId": 1
+        },
+        {
+            "id": 12,
+            "name": "Simon Viktória",
+            "city": "Budapest",
+            "birth": "2000-12-15",
+            "groupId": 1
+        },
+        {
+            "id": 13,
+            "name": "Fodor Dániel",
+            "city": "Debrecen",
+            "birth": "1998-03-25",
+            "groupId": 1
+        },
+        {
+            "id": 14,
+            "name": "Lakatos Éva",
+            "city": "Szeged",
+            "birth": "2001-02-18",
+            "groupId": 1
+        },
+        {
+            "id": 15,
+            "name": "Papp Gergő",
+            "city": "Pécs",
+            "birth": "1997-01-10",
+            "groupId": 1
+        },
+        {
+            "id": 16,
+            "name": "Király Zsuzsa",
+            "city": "Miskolc",
+            "birth": "2000-09-05",
+            "groupId": 1
+        },
+        {
+            "id": 17,
+            "name": "Fehér Bence",
+            "city": "Budapest",
+            "birth": "1999-08-22",
+            "groupId": 1
+        },
+        {
+            "id": 18,
+            "name": "Takács Kinga",
+            "city": "Debrecen",
+            "birth": "2001-04-30",
+            "groupId": 1
+        }
+    ]
+}
